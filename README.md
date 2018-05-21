@@ -1,5 +1,4 @@
-# wordpress
-Wordpress compose.yml
+﻿# wordpress compose.yml
 
 - mkdir ~/wordpress
 - cd ~/wordpress
